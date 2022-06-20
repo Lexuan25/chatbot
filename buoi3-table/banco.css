@@ -1,0 +1,33 @@
+html{
+    margin: auto;
+    width: 1024px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    padding: 0;
+    
+}
+table, tr, th{
+    height: 70px;
+    border: none;
+    width: 735px;
+    height: 70px;
+    
+}
+table{
+    background-color: orange;
+    
+}
+.box1{
+    background-color: #fff;
+    
+}
+.box2{
+    background-color: #000;
+    
+}
+.box-1{
+    background-color: #000;
+}
+.box-2{
+    background-color: #fff;
+}

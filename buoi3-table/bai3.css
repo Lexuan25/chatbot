@@ -1,0 +1,19 @@
+html{
+    margin: auto;
+    width: 1024px;
+    color: rgb(8, 170, 62);
+}
+table, tr, th{
+    border: 1px solid red;
+}
+table{
+    border-collapse: collapse;
+    width: 600px;
+}
+form{
+    text-align: left;
+}
+.footer{
+    text-align: center;
+    color:red;
+}

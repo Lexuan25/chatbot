@@ -1,0 +1,31 @@
+html{
+    margin: auto;
+    width: 1024px;
+    height: auto;
+}
+
+table, tr, th, td{
+    border: 1px solid black;
+}
+table{
+    border-collapse: collapse;
+}
+table, tr, th{
+    width: 600px;
+}
+.anhdg{
+    width:100px
+}
+.row-1{
+    background-color: red;
+    color: #fff;
+    text-align: right;
+}
+.row-3{
+    background-color: pink;
+    color:red;
+}
+.tieude2{
+    color:red;
+}
+

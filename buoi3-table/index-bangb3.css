@@ -1,0 +1,39 @@
+html{
+    margin:auto;
+    width:800px;
+    height: auto;
+}
+.tieude{
+    color:orange;
+    text-align: center;
+}
+table, td, th{
+    border: 2px solid rgb(100, 77, 77);
+
+}
+table tr th{
+    background-color: orange;
+    color: #fff;
+}
+table{
+    border-collapse: collapse;
+    width: 800px;
+    height: 30px;
+}
+.thb2{
+    background-color: rgb(194, 0, 48);
+}
+.cot1{
+    text-align: center;
+    
+}
+.cot2{
+    text-align: center;
+}
+.tb3{
+    text-align: center;
+    
+}
+.thb3{
+    background-color: red;
+}

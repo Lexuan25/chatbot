@@ -1,0 +1,45 @@
+html{
+    margin: auto;
+    width: 800px;
+}
+.circle{
+    margin: auto;
+    width: 100px;
+    padding: 35px;
+    box-shadow: inset 0 0 22px indianred;
+    border-radius: 50%;
+    
+    
+ }
+.circle .square{
+    padding: 0 0px 100px 0px;
+    border-radius: 3%;
+    box-shadow: inset 0 0 22px  green;
+}
+.hcn{
+    border: 10px solid black;
+    width: 500px;
+    border-radius: 5%;
+    display: flex;
+
+}
+.hcn1{
+    box-shadow: 0 0 0 6px violet;
+    width: 230px;
+    height: 150px;
+    box-sizing: border-box;
+    
+    border-radius: 30%;
+    margin-left: 20px;
+}
+.hcn2{
+    
+    box-shadow: 0 0 0 6px red;
+    width: 230px;
+    height: 150px;
+    box-sizing: border-box;
+    border-radius: 30%;
+   padding: 30px;
+    
+    
+}

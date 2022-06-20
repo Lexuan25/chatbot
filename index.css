@@ -1,0 +1,52 @@
+html{
+    margin: auto;
+    width: 800px;
+    height: auto;
+}
+.form-h1{
+    font-size: 30px;
+    color: #fff;
+    text-align: center ;
+    background-color: red;
+}
+.form-dkhv{
+    background-color: rgb(231, 230, 142);
+   
+}
+.form-dkhv h1{
+    color: blue;
+    background-color: rgb(49, 233, 193);
+}
+.form-market{
+    background-color: rgb(241, 235, 235);
+     ;
+}
+.form-market select{
+    width: 350px;
+}
+.form-market textarea{
+    width: 780px;
+    height: 100px;
+}
+.table{
+    border:none ;
+    width:785px ;
+    border-collapse: collapse;
+    text-align: center;
+}
+.table tr{
+    height: 50px;
+}
+.row-1{
+    background-color: rgb(156, 154, 154);
+}
+
+.row-3{
+    background-color: rgb(209, 209, 209);
+}
+.colum-1{
+    text-align: left;
+}
+.colums{
+    width: 100px;
+}
